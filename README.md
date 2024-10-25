@@ -22,7 +22,7 @@ Stellar-Fly-Rust-TCP-Receiver is a high-performance TCP receiver implemented in 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/Stellar-Fly-Rust-TCP-Receiver.git
+   git clone https://github.com/SergeKhachatour/Stellar-Fly-Rust-TCP-Receiver.git
    ```
 2. Navigate to the project directory:
    ```
@@ -52,7 +52,6 @@ More details coming soon.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
 
 ## Contact
 
