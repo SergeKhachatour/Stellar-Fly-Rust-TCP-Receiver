@@ -23,6 +23,7 @@ struct Block {
 #[derive(Debug, Clone)]
 struct SensorData {
     sensor_id: String,
+    wallet_id: String,  // New field
     latitude: f64,
     longitude: f64,
     altitude: f64,
@@ -154,14 +155,15 @@ async fn process_stream(stream: tokio::net::TcpStream) -> Result<(), Box<dyn Err
             if chunk.len() == 2 {
                 let sensor_id = chunk[0].to_string();
                 let data_values: Vec<&str> = chunk[1].split(',').collect();
-                if data_values.len() == 5 {
+                if data_values.len() == 6 {  // Changed from 5 to 6
                     let sensor_data = json!({
                         "sensor_id": sensor_id,
-                        "latitude": data_values[0].parse::<f64>().unwrap(),
-                        "longitude": data_values[1].parse::<f64>().unwrap(),
-                        "altitude": data_values[2].parse::<f64>().unwrap(),
-                        "speed": data_values[3].parse::<f64>().unwrap(),
-                        "direction": data_values[4].parse::<f64>().unwrap(),
+                        "wallet_id": data_values[0],  // New field
+                        "latitude": data_values[1].parse::<f64>().unwrap(),
+                        "longitude": data_values[2].parse::<f64>().unwrap(),
+                        "altitude": data_values[3].parse::<f64>().unwrap(),
+                        "speed": data_values[4].parse::<f64>().unwrap(),
+                        "direction": data_values[5].parse::<f64>().unwrap(),
                         "timestamp": Utc::now().to_rfc3339(),
                     });
                     json_data.push(sensor_data);
@@ -178,6 +180,7 @@ async fn process_stream(stream: tokio::net::TcpStream) -> Result<(), Box<dyn Err
     let sensor_data: Vec<SensorData> = received_json_data.iter().map(|json| {
         SensorData {
             sensor_id: json["sensor_id"].as_str().unwrap().to_string(),
+            wallet_id: json["wallet_id"].as_str().unwrap().to_string(),
             latitude: json["latitude"].as_f64().unwrap(),
             longitude: json["longitude"].as_f64().unwrap(),
             altitude: json["altitude"].as_f64().unwrap(),
