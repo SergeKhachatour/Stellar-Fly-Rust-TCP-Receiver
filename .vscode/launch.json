@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable 'Stellar_Fly_Rust_TCP_Receiver'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=Stellar_Fly_Rust_TCP_Receiver",
+                    "--package=Stellar_Fly_Rust_TCP_Receiver"
+                ],
+                "filter": {
+                    "name": "Stellar_Fly_Rust_TCP_Receiver",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable 'Stellar_Fly_Rust_TCP_Receiver'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=Stellar_Fly_Rust_TCP_Receiver",
+                    "--package=Stellar_Fly_Rust_TCP_Receiver"
+                ],
+                "filter": {
+                    "name": "Stellar_Fly_Rust_TCP_Receiver",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

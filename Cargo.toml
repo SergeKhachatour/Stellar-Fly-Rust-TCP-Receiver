@@ -1,0 +1,16 @@
+[package]
+name = "Stellar_Fly_Rust_TCP_Receiver"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+base64 = "0.13.0"
+reqwest = { version = "0.11", features = ["blocking"] }
+sha2 = "0.9"
+chrono = "0.4"
+mysql = "20.1"
+tokio = { version = "1", features = ["full"] }
+soroban-sdk = "21.5.3"
+serde_json = "1.0"

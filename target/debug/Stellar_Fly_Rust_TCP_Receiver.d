@@ -1,0 +1,1 @@
+C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Receiver\target\debug\Stellar_Fly_Rust_TCP_Receiver.exe: C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Receiver\src\main.rs

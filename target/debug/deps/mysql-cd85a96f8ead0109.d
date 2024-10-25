@@ -1,0 +1,22 @@
+C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Receiver\target\debug\deps\libmysql-cd85a96f8ead0109.rmeta: C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src/lib.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\mod.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\local_infile.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\opts.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\pool.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\query.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\query_result.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\queryable.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\stmt.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\stmt_cache.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\transaction.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\error.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\io\mod.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\io\tcp.rs
+
+C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Receiver\target\debug\deps\mysql-cd85a96f8ead0109.d: C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src/lib.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\mod.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\local_infile.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\opts.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\pool.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\query.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\query_result.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\queryable.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\stmt.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\stmt_cache.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\transaction.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\error.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\io\mod.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\io\tcp.rs
+
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src/lib.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\mod.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\local_infile.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\opts.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\pool.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\query.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\query_result.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\queryable.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\stmt.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\stmt_cache.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\conn\transaction.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\error.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\io\mod.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mysql-20.1.0\src\io\tcp.rs:
+
+# env-dep:CARGO_CFG_TARGET_ARCH=x86_64
+# env-dep:CARGO_CFG_TARGET_OS=windows
+# env-dep:CARGO_PKG_VERSION=20.1.0

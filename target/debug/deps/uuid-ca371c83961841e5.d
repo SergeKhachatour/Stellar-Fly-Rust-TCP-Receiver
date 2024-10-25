@@ -1,0 +1,12 @@
+C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Receiver\target\debug\deps\libuuid-ca371c83961841e5.rmeta: C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\lib.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\mod.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\error.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\error.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\mod.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\error.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\prelude.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\adapter\mod.rs
+
+C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Receiver\target\debug\deps\uuid-ca371c83961841e5.d: C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\lib.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\mod.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\error.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\error.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\mod.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\error.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\prelude.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\adapter\mod.rs
+
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\lib.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\mod.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\error.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\error.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\mod.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\error.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\prelude.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\adapter\mod.rs:

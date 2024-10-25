@@ -1,0 +1,11 @@
+C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Receiver\target\debug\deps\libdigest-ce44dadf23c32477.rmeta: C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\lib.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\digest.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\dyn_digest.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\errors.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\fixed.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\variable.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\xof.rs
+
+C:\Users\serge\OneDrive\Desktop\RustProjects\Stellar-Fly-Rust-TCP-Receiver\target\debug\deps\digest-ce44dadf23c32477.d: C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\lib.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\digest.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\dyn_digest.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\errors.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\fixed.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\variable.rs C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\xof.rs
+
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\lib.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\digest.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\dyn_digest.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\errors.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\fixed.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\variable.rs:
+C:\Users\serge\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\xof.rs:
